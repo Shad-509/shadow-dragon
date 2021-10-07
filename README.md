@@ -26,7 +26,7 @@ Athens Photography Media Project!
     <link rel="stylesheet" href="css/utilities.css" />
     <link rel="stylesheet" href="css/style.css" />
 
-    <title>Welcome To EdgeLedger Again</title>
+    <title>Athens Photography Media | Professional, Effective, Web Design Focused on Results</title>
   </head>
   <body id="home">
     <header class="hero">
